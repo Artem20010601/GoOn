@@ -15,6 +15,9 @@ class ViewController: UIViewController {
         view.backgroundColor = .orange
     }
 
+    private func test() {
+        print("Test")
+    }
 
 }
 
